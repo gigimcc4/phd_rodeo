@@ -1,0 +1,31 @@
+{
+    "id": "07FD6A0C",
+    "path": "~/Documents/phd_rodeo/Index.qmd",
+    "project_path": "Index.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1722894602697.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "206,15",
+        "scrollLine": "194",
+        "rmdVisualModeLocation": "1099:5415.5556640625"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1722953318,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1722953318760,
+    "read_only": false,
+    "read_only_alternatives": []
+}

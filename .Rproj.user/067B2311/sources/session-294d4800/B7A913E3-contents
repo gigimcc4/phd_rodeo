@@ -1,0 +1,5 @@
+<!-- Hidden Title Block -->
+<div class="title-slide" style="visibility: hidden; height: 0; overflow: hidden;">
+  <h1 class="presentation-title">{{ title }}</h1>
+  <h2 class="presentation-subtitle">{{ subtitle }}</h2>
+</div>
